@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-06-18T01:14:52Z</dc:date>
+		<meta property="dcterms:modified">2019-06-18T01:14:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,15 +44,13 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man looking for adventure ends up finding one.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-				&lt;p&gt;&lt;i&gt;A Voyage to Arcturus&lt;/i&gt; conjures up a certain image, although in this case, it might be a bit off. While it would certainly classify as a science fiction novel, it is so much more. Despite not selling well during Lindsay's own time, it has since been acclaimed as a classic and influential novel. Both C. S. Lewis, J. R. R. Tolkien, and Clive Barker all loved the book and if you can't trust them, who can you trust?&lt;/p&gt;
-				&lt;p&gt;In &lt;i&gt;A Voyage to Arcturus&lt;/i&gt;, Maskull, the main character, wants to go on an adventure. His wish is granted when an acquaintance of a friend invites him to travel after a seance. Maskull ends up on his lonesome on the planet Tormance and encounters a multitude of people as he travels its lands.&lt;/p&gt;
-				&lt;p&gt;David Lindsay used &lt;i&gt;A Voyage to Arcturus&lt;/i&gt; to criticize other philosophies and, as many would attest to, wrote a classic as an aside.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Voyage to Arcturus&lt;/i&gt; conjures up a certain image, although in this case, it might be a bit off. While it would certainly classify as a science fiction novel, it is so much more. Despite not selling well during Lindsays own time, it has since been acclaimed as a classic and influential novel. C. S. Lewis, J. R. R. Tolkien, and Clive Barker all loved the book and if you can not trust them, who can you trust?&lt;/p&gt;
+			&lt;p&gt;Maskull, the main character, wants to go on an adventure. His wish is granted when an acquaintance of a friend invites him to travel after a seance. Maskull ends up on his lonesome on the planet Tormance and encounters a multitude of people as he travels its lands.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1329</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">94177</meta>
+		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Voyage_to_Arcturus</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/david-lindsay_a-voyage-to-arcturus</meta>
 		<dc:creator id="author">David Lindsay</dc:creator>
